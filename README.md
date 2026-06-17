@@ -3,7 +3,7 @@ A collection of academic and practical projects focused on the implementation, o
 All projects in this repository were developed as collaborative assignments during my computer science studies.
 
 ## Repository Structure
-* **`algorithm-change-making`**
+* **`algorithms-change-making`**
     * *Description:* A graphical desktop simulation solving the coin change-making problem, highlighting the performance and correctness differences between Greedy logic and Dynamic Programming matrix states.
     * *Key Concepts:* Dynamic Programming, Greedy Algorithms, Bounded Constraints, GUI Event Loops.
 
